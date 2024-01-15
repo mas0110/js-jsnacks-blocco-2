@@ -5,7 +5,7 @@ const  arrayvuota= [ ]
 let i = 0
 
 while( i< 50){
-    let numeroUtente = parseInt(prompt("inserisci un numero"))
+    let numeroUtente = parseInt(prompt("inserisci dei numeri fino ad arrivare a 50"))
 
     arrayvuota.push(numeroUtente)
     i += numeroUtente
